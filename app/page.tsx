@@ -39,7 +39,7 @@ export default function Home() {
                 <img
                   src="/icons/telegram.svg"
                   alt="Telegram"
-                  className="h-6 w-6 opacity-80 hover:opacity-100 transition"
+                  className="h-6 w-6 text-white opacity-80 hover:opacity-100 transition"
                 />
               </a>
 
