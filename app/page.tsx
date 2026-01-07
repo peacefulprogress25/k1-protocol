@@ -15,15 +15,6 @@ export default function Home() {
         {/* DARK OVERLAY */}
         <div className="absolute inset-0 bg-black/40" />
 
-        {/* TOP LEFT LOGO */}
-        <div className="absolute top-6 left-6 z-20">
-          <img
-            src="/k1-logo.svg"
-            alt="K1 logo"
-            className="h-8 md:h-10"
-          />
-        </div>
-
         {/* CONTENT */}
         <div className="relative z-10 h-full flex items-center">
           <div className="max-w-2xl px-8 md:px-16 text-left">
@@ -70,7 +61,7 @@ export default function Home() {
                 rel="noopener noreferrer"
               >
                 <img
-                  src="/icons/github.svg"
+                  src="/icons/gitbook.svg"
                   alt="GitHub"
                   className="h-6 w-6 opacity-80 hover:opacity-100 transition"
                 />
