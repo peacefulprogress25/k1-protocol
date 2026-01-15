@@ -7,7 +7,7 @@ export default function Home() {
 
         {/* BACKGROUND IMAGE */}
         <img
-          src="https://i.ibb.co/n8rmQCCr/Chat-GPT-Image-Jan-1-2026-04-23-21-PM-1.jpg"
+          src="https://i.ibb.co/5gGRR4hC/Chat-GPT-Image-Jan-13-2026-05-12-32-PM.png"
           alt="K1 energy future"
           className="absolute inset-0 w-full h-full object-cover"
         />
