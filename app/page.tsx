@@ -26,7 +26,7 @@ export default function Home() {
 
             {/* SUB TAGLINE */}
             <p className="text-lg md:text-xl text-gray-200 mb-10">
-              Financial substrate for Kardashev I civilization.
+              Financial substrate for a Kardashev I civilization.
             </p>
 
             {/* SOCIAL ICON LINKS */}
