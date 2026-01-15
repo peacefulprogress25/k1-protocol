@@ -21,12 +21,12 @@ export default function Home() {
 
             {/* MAIN TAGLINE */}
             <div className="text-3xl md:text-5xl font-normal tracking-tight mb-6 whitespace-normal md:whitespace-nowrap">
-              Stablecoin backed by energy.
+              Stablecoin that funds energy.
             </div>
 
             {/* SUB TAGLINE */}
             <p className="text-lg md:text-xl text-gray-200 mb-10">
-              Financing layer for Kardashev Type I civilization.
+              Financial substrate for Kardashev I civilization.
             </p>
 
             {/* SOCIAL ICON LINKS */}
