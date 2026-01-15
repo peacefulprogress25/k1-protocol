@@ -7,7 +7,7 @@ export default function Home() {
 
         {/* BACKGROUND IMAGE */}
         <img
-          src="https://i.ibb.co/PyyMJQP/Gemini-Generated-Image-xe025ixe025ixe02.png"
+          src="https://i.ibb.co/ksqvFyww/image.png"
           alt="K1 energy future"
           className="absolute inset-0 w-full h-full object-cover"
         />
