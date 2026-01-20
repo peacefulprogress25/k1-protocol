@@ -6,7 +6,7 @@ export function Ecosystem() {
         <div className="px-6 lg:px-12 py-12 lg:py-24">
           <div className="max-w-lg">
             <h3 className="text-mega text-foreground mb-8">
-              K1 is an energy financing protocol
+              Energy financing protocol
             </h3>
 
             <div className="space-y-2">
