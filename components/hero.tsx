@@ -5,7 +5,7 @@ export function Hero() {
     <section className="bg-white pt-0 lg:min-h-screen">
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-0">
         {/* Left Column - Content (50%) */}
-        <div className="flex flex-col justify-center px-6 lg:px-12 pt-24 pb-8 lg:py-0 lg:min-h-screen">
+        <div className="flex flex-col justify-center px-6 lg:px-12 pt-28 pb-8 lg:py-0 lg:min-h-screen">
           <div className="max-w-lg">
             <h3 className="text-mega text-foreground mb-6">
               Stablecoin that funds energy
@@ -42,7 +42,7 @@ export function Hero() {
         </div>
 
         {/* Mobile Image */}
-        <div className="lg:hidden h-56 sm:h-72">
+        <div className="lg:hidden h-60 sm:h-72">
           <img
             src="https://i.ibb.co/ZR99W4H2/Gemini-Generated-Image-om6iymom6iymom6i.webp"
             alt="K1 hero visual"
