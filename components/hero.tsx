@@ -6,7 +6,7 @@ export function Hero() {
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-0">
         {/* Left Column - Content (50%) */}
         <div className="flex flex-col justify-center px-6 lg:px-12 pt-28 pb-8 lg:py-0 lg:min-h-screen">
-          <div className="max-w-lg">
+          <div className="max-w-lg text-center lg:text-left mx-auto lg:mx-0">
             <h3 className="text-mega text-foreground mb-6">
               Stablecoin that funds energy
             </h3>

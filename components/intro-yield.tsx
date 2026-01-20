@@ -3,7 +3,7 @@ export function IntroYield() {
     <section className="bg-white lg:min-h-screen">
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-0">
         {/* Left Column - Content (50%) */}
-        <div className="flex flex-col justify-center px-8 lg:px-12 py-9 lg:py-0 lg:min-h-screen">
+        <div className="flex flex-col justify-center px-8 lg:px-12 py-30 lg:py-0 lg:min-h-screen">
           <div className="max-w-lg text-center lg:text-left mx-auto lg:mx-0">
             <h3 className="text-mega text-foreground">
               K1 earns yield by financing energy production, distribution, and storage.

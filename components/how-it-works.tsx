@@ -4,7 +4,7 @@ export function HowItWorks() {
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-0">
         {/* Left Column - Content (50%) */}
         <div className="px-6 lg:px-12 py-12 lg:py-24">
-          <div className="max-w-lg">
+          <div className="max-w-lg text-center lg:text-left mx-auto lg:mx-0">
             <h2 className="text-section-heading text-muted-foreground mb-8">How It Works</h2>
 
             <div className="space-y-2">
@@ -35,17 +35,17 @@ export function HowItWorks() {
         {/* Right Column - Image Placeholder (50%) */}
         <div className="hidden lg:flex items-center justify-center bg-gray-100">
           <img
-  src="https://i.ibb.co/RkRbWDxk/Gemini-Generated-Image-i9gbuei9gbuei9gb.webp"
+  src="https://i.ibb.co/8L1sV7WL/Gemini-Generated-Image-i9gbuei9gbuei9gb.webp"
   alt="How it works"
   className="w-full h-full object-cover"
 />
 
         </div>
 
-               {/* Mobile Image Placeholder */}
+        {/* Mobile Image */}
         <div className="lg:hidden h-96">
           <img
-            src="https://i.ibb.co/RkRbWDxk/Gemini-Generated-Image-i9gbuei9gbuei9gb.webp"
+            src="https://i.ibb.co/8L1sV7WL/Gemini-Generated-Image-i9gbuei9gbuei9gb.webp"
             alt="How it works"
             className="w-full h-full object-cover"
           />
@@ -54,4 +54,3 @@ export function HowItWorks() {
     </section>
   )
 }
-

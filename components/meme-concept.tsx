@@ -3,8 +3,8 @@ export function MemeConcept() {
     <section className="bg-white">
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-0">
         {/* Left Column - Content (50%) */}
-        <div className="flex flex-col justify-center px-6 lg:px-12 py-12 lg:py-0 min-h-screen lg:min-h-auto">
-          <div className="max-w-lg">
+        <div className="flex flex-col justify-center px-8 lg:px-12 py-30 lg:py-0 lg:min-h-screen">
+          <div className="max-w-lg text-center lg:text-left mx-auto lg:mx-0">
             <h3 className="text-mega text-foreground mb-6">
   Modern civilization moves on energy.
 </h3>
