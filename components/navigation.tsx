@@ -7,7 +7,11 @@ export function Navigation() {
       <div className="mx-auto flex items-center justify-between px-6 py-4 lg:px-12">
         {/* Left: K1 Logo */}
         <a href="/" className="flex items-center gap-2">
+<<<<<<< HEAD
   <img src="/k1-logo.svg" alt="K1" className="h-12 w-auto" />
+=======
+  <img src="/k1-logo.svg" alt="K1" className="h-10 w-auto" />
+>>>>>>> b9ca536938556659006ee66c8919c76ea40ca49e
 </a>
 
 

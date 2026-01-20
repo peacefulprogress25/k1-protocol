@@ -12,7 +12,7 @@ export function Hero() {
             </h3>
 
             <p className="text-lg text-muted-foreground mb-8 leading-relaxed font-medium">
-              Financial substrate for a Kardashev 1 civilization
+              Energy that provides yield
             </p>
 
             {/* APY + TVL in one line */}

@@ -3,9 +3,7 @@ export function Footer() {
     <footer className="border-t border-border bg-white py-12">
       <div className="mx-auto px-6 lg:px-12">
         <div className="flex flex-col md:flex-row items-center justify-between gap-6">
-          <a href="#" className="text-sm text-muted-foreground hover:text-foreground transition-colors">
-            Docs
-          </a>
+          
 
           <div className="flex items-center gap-4">
             {/* Twitter Icon */}
