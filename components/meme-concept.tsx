@@ -19,19 +19,22 @@ export function MemeConcept() {
         <div className="hidden lg:flex items-center justify-center bg-gray-100 min-h-screen">
           <img
   src="https://i.ibb.co/k655TTXy/Gemini-Generated-Image-7tbw4w7tbw4w7tbw.webp"
-  alt="How it works"
+  alt="MemeConcept"
   className="w-full h-full object-cover"
 />
 
         </div>
 
-        {/* Mobile Image Placeholder */}
-        <div className="lg:hidden bg-gray-100 h-96 flex items-center justify-center">
-          <div className="text-center">
-            <div className="text-gray-400 text-lg font-medium">Image Placeholder</div>
-          </div>
+                {/* Mobile Image Placeholder */}
+        <div className="lg:hidden h-96">
+          <img
+            src="https://i.ibb.co/k655TTXy/Gemini-Generated-Image-7tbw4w7tbw4w7tbw.webp"
+            alt="MemeConcept"
+            className="w-full h-full object-cover"
+          />
         </div>
       </div>
     </section>
   )
 }
+
