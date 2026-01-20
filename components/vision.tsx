@@ -19,7 +19,7 @@ export function Vision() {
         {/* Right Column - Image Placeholder (50%) */}
         <div className="hidden lg:flex items-center justify-center bg-gray-100 min-h-screen">
           <img
-  src="https://i.ibb.co/v4kbC78L/Chat-GPT-Image-Jan-19-2026-04-13-23-PM.png"
+  src="https://i.ibb.co/21kQKxD2/Chat-GPT-Image-Jan-19-2026-04-13-23-PM.webp"
   alt="How it works"
   className="w-full h-full object-cover"
 />
