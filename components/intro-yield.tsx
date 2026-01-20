@@ -21,9 +21,13 @@ export function IntroYield() {
         </div>
 
         {/* Mobile Image Placeholder */}
-        <div className="lg:hidden bg-gray-100 h-96 flex items-center justify-center">
-          <div className="text-center">
-            <div className="text-gray-400 text-lg font-medium">Image Placeholder</div>
+        <div className="lg:hidden h-96">
+          <img
+            src="https://i.ibb.co/jPcpzp4P/Gemini-Generated-Image-nx7c29nx7c29nx7c.webp"
+            alt="Intro yield"
+            className="w-full h-full object-cover"
+          />
+        </div>
           </div>
         </div>
       </div>
