@@ -42,7 +42,7 @@ export function HowItWorks() {
 
         </div>
 
-        {/* Mobile Image Placeholder */}
+               {/* Mobile Image Placeholder */}
         <div className="lg:hidden h-96">
           <img
             src="https://i.ibb.co/RkRbWDxk/Gemini-Generated-Image-i9gbuei9gbuei9gb.webp"
@@ -50,9 +50,8 @@ export function HowItWorks() {
             className="w-full h-full object-cover"
           />
         </div>
-          </div>
-        </div>
       </div>
     </section>
   )
 }
+
