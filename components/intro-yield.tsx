@@ -20,17 +20,16 @@ export function IntroYield() {
 />
         </div>
 
-        {/* Mobile Image Placeholder */}
+               {/* Mobile Image Placeholder */}
         <div className="lg:hidden h-96">
           <img
             src="https://i.ibb.co/jPcpzp4P/Gemini-Generated-Image-nx7c29nx7c29nx7c.webp"
-            alt="Intro yield"
+            alt="Intro Yield"
             className="w-full h-full object-cover"
           />
-        </div>
-          </div>
         </div>
       </div>
     </section>
   )
 }
+
