@@ -47,7 +47,7 @@ export function Hero() {
         {/* Mobile Image */}
         <div className="lg:hidden h-96">
           <img
-            src="https://i.ibb.co/CKQFB1X5/Chat-GPT-Image-Jan-19-2026-01-54-19-PM.png"
+            src="https://i.ibb.co/ZR99W4H2/Gemini-Generated-Image-om6iymom6iymom6i.webp"
             alt="K1 hero visual"
             className="w-full h-full object-cover"
           />
