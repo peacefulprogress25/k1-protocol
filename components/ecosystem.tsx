@@ -43,15 +43,16 @@ export function Ecosystem() {
           />
         </div>
 
-        {/* Mobile Image */}
-        <div className="lg:hidden bg-gray-100 h-96 p-6">
+              {/* Mobile Image Placeholder */}
+        <div className="lg:hidden h-96">
           <img
             src="https://i.ibb.co/W4pLm0V9/Gemini-Generated-Image-ssw46pssw46pssw4.webp"
-            alt="Ecosystem visual"
-            className="w-full h-full object-contain scale-75"
+            alt="Ecosystem Visual"
+            className="w-full h-full object-cover"
           />
         </div>
       </div>
     </section>
   )
 }
+
