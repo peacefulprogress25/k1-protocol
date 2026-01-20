@@ -15,8 +15,8 @@ export default function Home() {
         <Hero />
         <IntroYield />
         <HowItWorks />
-        <Ecosystem />
         <MemeConcept />
+        <Ecosystem />
         <Vision />
       </main>
       <Footer />
