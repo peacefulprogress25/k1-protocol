@@ -46,7 +46,7 @@ export function Ecosystem() {
         {/* Mobile Image */}
         <div className="lg:hidden bg-gray-100 h-96 p-6">
           <img
-            src="YOUR_ECOSYSTEM_IMAGE_LINK"
+            src="https://i.ibb.co/W4pLm0V9/Gemini-Generated-Image-ssw46pssw46pssw4.webp"
             alt="Ecosystem visual"
             className="w-full h-full object-contain scale-75"
           />
