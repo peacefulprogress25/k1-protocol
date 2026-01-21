@@ -8,9 +8,9 @@ const inter = Inter({ subsets: ["latin"], variable: "--font-inter" })
 const spaceGrotesk = Space_Grotesk({ subsets: ["latin"], variable: "--font-space-grotesk", weight: ["500"] })
 
 export const metadata: Metadata = {
-  title: "K1 Protocol - Stablecoin that funds energy",
+  title: "K1",
   description:
-    "K1 is a stablecoin that funds energy and building a Kardashev Type I civilization.",
+    "Stablecoin that funds energy",
   generator: "v0.app",
 }
 
