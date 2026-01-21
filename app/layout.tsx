@@ -11,6 +11,9 @@ export const metadata: Metadata = {
   title: "K1",
   description:
     "Stablecoin that funds energy",
+    icons: {
+    icon: "/favicon.png"
+  },
   generator: "v0.app",
 }
 
