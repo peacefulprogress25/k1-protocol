@@ -37,7 +37,7 @@ export function Ecosystem() {
         {/* Right Column - Image (50%) */}
         <div className="hidden lg:flex items-stretch justify-center min-h-screen">
           <img
-            src="https://i.ibb.co/W4pLm0V9/Gemini-Generated-Image-ssw46pssw46pssw4.webp"
+            src="https://i.ibb.co/3ys7cs5d/wmremove-transformed.webp"
             alt="Ecosystem visual"
             className="w-full h-full object-cover"
           />
@@ -46,7 +46,7 @@ export function Ecosystem() {
               {/* Mobile Image Placeholder */}
         <div className="lg:hidden h-96">
           <img
-            src="https://i.ibb.co/W4pLm0V9/Gemini-Generated-Image-ssw46pssw46pssw4.webp"
+            src="https://i.ibb.co/3ys7cs5d/wmremove-transformed.webp"
             alt="Ecosystem Visual"
             className="w-full h-full object-cover"
           />

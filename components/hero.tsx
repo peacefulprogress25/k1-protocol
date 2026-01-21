@@ -35,7 +35,7 @@ export function Hero() {
         {/* Right Column - Hero Image (50%) */}
         <div className="hidden lg:flex items-stretch justify-center lg:min-h-screen">
           <img
-            src="https://i.ibb.co/ZR99W4H2/Gemini-Generated-Image-om6iymom6iymom6i.webp"
+            src="https://i.ibb.co/pBggYVMr/Gemini-Generated-Image-om6iymom6iymom6i-1.webp"
             alt="K1 hero visual"
             className="w-full h-full object-cover"
           />
@@ -44,7 +44,7 @@ export function Hero() {
         {/* Mobile Image */}
         <div className="lg:hidden h-60 sm:h-72">
           <img
-            src="https://i.ibb.co/ZR99W4H2/Gemini-Generated-Image-om6iymom6iymom6i.webp"
+            src="https://i.ibb.co/pBggYVMr/Gemini-Generated-Image-om6iymom6iymom6i-1.webp"
             alt="K1 hero visual"
             className="w-full h-full object-cover"
           />

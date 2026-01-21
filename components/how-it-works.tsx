@@ -35,7 +35,7 @@ export function HowItWorks() {
         {/* Right Column - Image Placeholder (50%) */}
         <div className="hidden lg:flex items-center justify-center bg-gray-100">
           <img
-  src="https://i.ibb.co/8L1sV7WL/Gemini-Generated-Image-i9gbuei9gbuei9gb.webp"
+  src="https://i.ibb.co/0RGCVpqM/Gemini-Generated-Image-i9gbuei9gbuei9gb-1.webp"
   alt="How it works"
   className="w-full h-full object-cover"
 />
@@ -45,7 +45,7 @@ export function HowItWorks() {
         {/* Mobile Image */}
         <div className="lg:hidden h-96">
           <img
-            src="https://i.ibb.co/8L1sV7WL/Gemini-Generated-Image-i9gbuei9gbuei9gb.webp"
+            src="https://i.ibb.co/0RGCVpqM/Gemini-Generated-Image-i9gbuei9gbuei9gb-1.webp"
             alt="How it works"
             className="w-full h-full object-cover"
           />

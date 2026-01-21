@@ -18,7 +18,7 @@ export function MemeConcept() {
         {/* Right Column - Image Placeholder (50%) */}
         <div className="hidden lg:flex items-center justify-center bg-gray-100 min-h-screen">
           <img
-  src="https://i.ibb.co/k655TTXy/Gemini-Generated-Image-7tbw4w7tbw4w7tbw.webp"
+  src="https://i.ibb.co/G4zbW3CZ/Gemini-Generated-Image-7tbw4w7tbw4w7tbw-1.webp"
   alt="MemeConcept"
   className="w-full h-full object-cover"
 />
@@ -28,7 +28,7 @@ export function MemeConcept() {
                 {/* Mobile Image Placeholder */}
         <div className="lg:hidden h-96">
           <img
-            src="https://i.ibb.co/k655TTXy/Gemini-Generated-Image-7tbw4w7tbw4w7tbw.webp"
+            src="https://i.ibb.co/G4zbW3CZ/Gemini-Generated-Image-7tbw4w7tbw4w7tbw-1.webp"
             alt="MemeConcept"
             className="w-full h-full object-cover"
           />

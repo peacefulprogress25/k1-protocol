@@ -19,7 +19,7 @@ export function Vision() {
         {/* Right Column - Image Placeholder (50%) */}
         <div className="hidden lg:flex items-center justify-center bg-gray-100 min-h-screen">
           <img
-  src="https://i.ibb.co/21kQKxD2/Chat-GPT-Image-Jan-19-2026-04-13-23-PM.webp"
+  src="https://i.ibb.co/DyHT8H1/Chat-GPT-Image-Jan-19-2026-04-13-23-PM-1.webp"
   alt="Vision"
   className="w-full h-full object-cover"
 />
@@ -29,7 +29,7 @@ export function Vision() {
               {/* Mobile Image Placeholder */}
         <div className="lg:hidden h-96">
           <img
-            src="https://i.ibb.co/21kQKxD2/Chat-GPT-Image-Jan-19-2026-04-13-23-PM.webp"
+            src="https://i.ibb.co/DyHT8H1/Chat-GPT-Image-Jan-19-2026-04-13-23-PM-1.webp"
             alt="Vision"
             className="w-full h-full object-cover"
           />
