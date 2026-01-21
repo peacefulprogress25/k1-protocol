@@ -11,7 +11,7 @@ export function Vision() {
 
 
             <p className="text-lg text-muted-foreground leading-relaxed">
-              Treasury dedicated to fund a 20x in energy production from 500Twh to 10,000 Twh for a Kardashev 1 civilization
+              Use K1 as your currency to make this a reality
             </p>
           </div>
         </div>

@@ -6,7 +6,7 @@ export function Ecosystem() {
         <div className="px-6 lg:px-12 py-12 lg:py-24">
           <div className="max-w-lg text-center lg:text-left mx-auto lg:mx-0">
             <h3 className="text-mega text-foreground mb-8">
-              Energy financing protocol
+              Liquidty engine for energy
             </h3>
 
             <div className="space-y-2">
