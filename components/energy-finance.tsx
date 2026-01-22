@@ -19,7 +19,7 @@ export function EnergyFinance() {
         {/* Right Column - Image (50%) */}
         <div className="hidden lg:flex items-center justify-center bg-gray-100 lg:min-h-screen">
           <img
-            src="https://i.ibb.co/WWjPMFPD/wmremove-transformed-1.webp"
+            src="https://i.ibb.co/bMHf6rv5/Gemini-Generated-Image-x9zu47x9zu47x9zu.webp"
             alt="Energy Finance"
             className="w-full h-full object-cover"
           />
@@ -28,7 +28,7 @@ export function EnergyFinance() {
         {/* Mobile Image */}
         <div className="lg:hidden h-96">
           <img
-            src="https://i.ibb.co/WWjPMFPD/wmremove-transformed-1.webp"
+            src="https://i.ibb.co/bMHf6rv5/Gemini-Generated-Image-x9zu47x9zu47x9zu.webp"
             alt="ENergy Finance"
             className="w-full h-full object-cover"
           />
