@@ -6,6 +6,8 @@ import { Ecosystem } from "@/components/ecosystem"
 import { Vision } from "@/components/vision"
 import { MemeConcept } from "@/components/meme-concept"
 import { Footer } from "@/components/footer"
+import { EnergyFinance } from "@/components/energy-finance"
+
 
 export default function Home() {
   return (
@@ -17,6 +19,7 @@ export default function Home() {
         <HowItWorks />
         <MemeConcept />
         <Ecosystem />
+        <EnergyFinance />
         <Vision />
       </main>
       <Footer />
