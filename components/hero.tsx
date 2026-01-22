@@ -19,7 +19,7 @@ export function Hero() {
             <div className="flex flex-wrap items-center gap-6 mb-8">
               <div className="flex items-baseline gap-2">
                 <span className="text-sm text-muted-foreground font-medium">Expected APY:</span>
-                <span className="text-lg text-foreground font-medium">9.5%</span>
+                <span className="text-lg text-foreground font-medium">11%</span>
               </div>
 
               <div className="h-4 w-px bg-border hidden sm:block" />
