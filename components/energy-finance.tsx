@@ -6,7 +6,7 @@ export function EnergyFinance() {
         <div className="flex flex-col justify-center px-8 lg:px-12 py-30 lg:py-0 lg:min-h-screen">
           <div className="max-w-lg text-center lg:text-left mx-auto lg:mx-0">
             <h3 className="text-mega text-foreground mb-6">
-              $3.5 Trillion invested in energy infra annually
+              $3.5 Trillion invested annually across energy industries
             </h3>
 
             <p className="text-lg text-muted-foreground leading-relaxed">
